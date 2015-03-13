@@ -1,0 +1,1 @@
+Very early stage code. Takes event data and transforms it to various types of counts that can then be fed to a machine learning algorithm
